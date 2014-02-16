@@ -4,10 +4,10 @@
 
     <groupId>com.livehereandnow.lab</groupId>
     <artifactId>n2</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <packaging>war</packaging>
 
-    <name>n2</name>
+    <name>n2x1</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
